@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.daad8ea1.css",
-    "main.js": "/static/js/main.a7cd98dd.js",
-    "static/js/787.151a4514.chunk.js": "/static/js/787.151a4514.chunk.js",
-    "index.html": "/index.html",
-    "static/media/eraser-brush.svg": "/static/media/eraser-brush.2d629f276c79031bc93c372092a25acf.svg",
-    "static/media/wall-brush.svg": "/static/media/wall-brush.1713d0c050990c10e7dfa382d1794c67.svg",
-    "static/media/player-brush.svg": "/static/media/player-brush.8a80fdbc43be1846a322654d55dd9a64.svg",
-    "static/media/box-brush.svg": "/static/media/box-brush.18e4cb9b214026efa5b5506145801c37.svg",
-    "static/media/floor-brush.svg": "/static/media/floor-brush.1e0502b9d3f27ffa3cc805d78dedaa03.svg",
-    "main.daad8ea1.css.map": "/static/css/main.daad8ea1.css.map",
-    "main.a7cd98dd.js.map": "/static/js/main.a7cd98dd.js.map",
-    "787.151a4514.chunk.js.map": "/static/js/787.151a4514.chunk.js.map"
+    "main.css": "/pp-editor/static/css/main.daad8ea1.css",
+    "main.js": "/pp-editor/static/js/main.22809700.js",
+    "static/js/787.151a4514.chunk.js": "/pp-editor/static/js/787.151a4514.chunk.js",
+    "index.html": "/pp-editor/index.html",
+    "static/media/eraser-brush.svg": "/pp-editor/static/media/eraser-brush.2d629f276c79031bc93c372092a25acf.svg",
+    "static/media/wall-brush.svg": "/pp-editor/static/media/wall-brush.1713d0c050990c10e7dfa382d1794c67.svg",
+    "static/media/player-brush.svg": "/pp-editor/static/media/player-brush.8a80fdbc43be1846a322654d55dd9a64.svg",
+    "static/media/box-brush.svg": "/pp-editor/static/media/box-brush.18e4cb9b214026efa5b5506145801c37.svg",
+    "static/media/floor-brush.svg": "/pp-editor/static/media/floor-brush.1e0502b9d3f27ffa3cc805d78dedaa03.svg",
+    "main.daad8ea1.css.map": "/pp-editor/static/css/main.daad8ea1.css.map",
+    "main.22809700.js.map": "/pp-editor/static/js/main.22809700.js.map",
+    "787.151a4514.chunk.js.map": "/pp-editor/static/js/787.151a4514.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daad8ea1.css",
-    "static/js/main.a7cd98dd.js"
+    "static/js/main.22809700.js"
   ]
 }
