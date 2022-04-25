@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pp-editor/static/css/main.daad8ea1.css",
-    "main.js": "/pp-editor/static/js/main.22809700.js",
+    "main.js": "/pp-editor/static/js/main.444d5abe.js",
     "static/js/787.151a4514.chunk.js": "/pp-editor/static/js/787.151a4514.chunk.js",
     "index.html": "/pp-editor/index.html",
     "static/media/eraser-brush.svg": "/pp-editor/static/media/eraser-brush.2d629f276c79031bc93c372092a25acf.svg",
@@ -10,11 +10,11 @@
     "static/media/box-brush.svg": "/pp-editor/static/media/box-brush.18e4cb9b214026efa5b5506145801c37.svg",
     "static/media/floor-brush.svg": "/pp-editor/static/media/floor-brush.1e0502b9d3f27ffa3cc805d78dedaa03.svg",
     "main.daad8ea1.css.map": "/pp-editor/static/css/main.daad8ea1.css.map",
-    "main.22809700.js.map": "/pp-editor/static/js/main.22809700.js.map",
+    "main.444d5abe.js.map": "/pp-editor/static/js/main.444d5abe.js.map",
     "787.151a4514.chunk.js.map": "/pp-editor/static/js/787.151a4514.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daad8ea1.css",
-    "static/js/main.22809700.js"
+    "static/js/main.444d5abe.js"
   ]
 }
